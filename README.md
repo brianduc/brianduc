@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DevSecOps**
 
-- 💬 Ask me about **everthing**
+- 💬 Ask me about **everything**
 
 - 📫 Email me at: **laidinhcaoduc@gmail.com**
 
