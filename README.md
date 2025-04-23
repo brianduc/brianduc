@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **private and self-hosted projects**
 
-- 🌱 I’m currently learning **NextJS, Angular, NestJS**
+- 🌱 I’m currently learning **DevSecOps**
 
-- 💬 Ask me about **frontend :>**
+- 💬 Ask me about **everthing**
 
-- 📫 Email me at: **brianduc9112003@gmail.com**
+- 📫 Email me at: **laidinhcaoduc@gmail.com**
 
 - ❤️ I love **coding, motorcycles, cars, speed**
 
