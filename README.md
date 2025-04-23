@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lai Dinh Cao Duc</h1>
-<h3 align="center">Frontend developer based in Vietnam. Building beautiful and interactive web applications with a love for learning new technologies.</h3>
+<h3 align="center">Fullstack developer based in Vietnam. Building beautiful and interactive web applications with a love for learning new technologies.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brianduc" alt="brianduc" /></a> </p>
 
